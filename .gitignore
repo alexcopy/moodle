@@ -1,0 +1,8 @@
+# Java и Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+
